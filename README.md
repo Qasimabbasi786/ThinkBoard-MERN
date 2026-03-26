@@ -2,6 +2,15 @@
 
 A modern, full-stack notes application built with the MERN stack (MongoDB, Express, React, Node.js). ThinkBoard allows users to create, read, update, and delete notes with a responsive and intuitive user interface.
 
+
+<img width="1589" height="737" alt="image" src="https://github.com/user-attachments/assets/1f2ac358-b5a6-41d7-b803-5d20485a5d08" />
+<img width="1203" height="663" alt="image" src="https://github.com/user-attachments/assets/366982e5-e4db-4360-a81d-4119ed089b0d" />
+<img width="1049" height="585" alt="image" src="https://github.com/user-attachments/assets/0d6d6434-52b3-4cbc-99f1-05c6d0bc2d8e" />
+
+
+
+
+
 ## 🎯 Features
 
 - **Create Notes**: Easily create new notes with a clean and simple interface
@@ -32,7 +41,7 @@ A modern, full-stack notes application built with the MERN stack (MongoDB, Expre
 ## 📁 Project Structure
 
 ```
-Mern-ThinkBoard/
+ThinkBoard-MERN/
 │
 ├── backend/
 │   ├── src/
@@ -181,7 +190,7 @@ This project is open source and available under the MIT License. Feel free to us
 
 ## 👨‍💻 Author
 
-Created as a personal project to practice full-stack MERN development.
+Created as a personal project to practice full-stack MERN development by Muhammad Qasim.
 
 ## 📧 Support
 
